@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: client
-          image: naranjan2004/multi-client
+          image: nranjan2004/multi-client
           ports:
             - containerPort: 3000
